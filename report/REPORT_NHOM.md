@@ -1,6 +1,6 @@
 # Báo Cáo Nhóm — Lab 7: Embedding & Vector Store
 
-**Nhóm:** [ThienAN]
+**Nhóm:** [ThienAN/G70]
 **Thành viên:** [Phạm Tu], Thu Vu, Sang, Khanh
 **Ngày:** [20/09/2026]
 
