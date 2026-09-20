@@ -1,7 +1,7 @@
 # Báo Cáo Nhóm — Lab 7: Embedding & Vector Store
 
 **Nhóm:** [ThienAN/G70]
-**Thành viên:** [Phạm Tu], Thu Vu, Sang, Khanh
+**Thành viên:** [Phạm Văn Hoàng Anh Tú], Vũ Đình Thư, Lê Văn Sang, Ngô Thế Khanh
 **Ngày:** [20/09/2026]
 
 > **Nộp 1 bản / nhóm.** Phần cá nhân (hướng tiếp cận, kết quả riêng, dự đoán…) mỗi thành viên nộp riêng trong `REPORT_CANHAN.md`. Chi tiết thang điểm: `docs/SCORING.md`.
